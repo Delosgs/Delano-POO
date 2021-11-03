@@ -13,8 +13,8 @@ public class Main {
         p2.setDono("Verusca");
         p2.abrirConta("CP");
 
-        p1.depositar(100);
-        p2.depositar(500);
+        p1.depositar(1000);
+        p2.depositar(5000);
         p2.sacar(1000);
         p1.sacar(150);
         p1.fecharConta();
